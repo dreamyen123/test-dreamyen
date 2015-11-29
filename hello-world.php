@@ -1,3 +1,2 @@
-<?php 
-	echo "hello world";
-	my name is dreamye
+echo "hello world";
+my name is tangxilin
