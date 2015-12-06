@@ -1,3 +1,4 @@
 my name is b.txt
 so ga
 git merge --no-ff dev
+git merege --squash
