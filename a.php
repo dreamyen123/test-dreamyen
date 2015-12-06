@@ -7,3 +7,4 @@ git diff --stat:
 git commit1..commit2
 git diff have more field
 --diff-filter=
+--no-ff -m ''
