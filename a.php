@@ -10,3 +10,4 @@ git diff have more field
 --no-ff -m ''
 merge more parameter
 1
+66666
