@@ -4,3 +4,4 @@ git merge --no-ff dev
 git merege --squash
 444
 5
+777
