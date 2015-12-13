@@ -5,4 +5,5 @@ git merege --squash
 444
 5
 777
-fetch and merge
+dd
+

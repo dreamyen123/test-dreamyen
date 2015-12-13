@@ -1,1 +1,4 @@
 git diff and git diff -cached diff ?
+
+git rm --cached
+
